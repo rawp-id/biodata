@@ -1,0 +1,28 @@
+.jumbotron{
+    background-image: url(gambar.png);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+}
+.jumbotron .display-5{
+    color: white;
+    margin-top: 200px;
+}
+.jumbotron p{
+    color: white;
+}
+.profil{
+    text-align: center;
+}
+table{
+    text-align: left;
+}
+td{
+    font-size: 20px;
+}
+.oke{
+    font-size: 30px;
+}
+.card{
+    color: white;
+}
