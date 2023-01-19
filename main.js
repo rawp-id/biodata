@@ -1,5 +1,0 @@
-<script>
-#home{
-onclick
-}
-</script>
